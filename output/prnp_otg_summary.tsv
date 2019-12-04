@@ -1,0 +1,33 @@
+index_variant_id	prnp_tss_dist	n	phenotypes	prnp_proportion	pos
+20_3355571_C_CA	-1330779	1	High light scatter reticulocyte count	0	3355571
+20_3617227_T_C	-1069123	1	Breast cancer	0	3617227
+20_3632959_G_A	-1053391	1	High light scatter reticulocyte count	0	3632959
+20_4122307_G_A	-564043	2	Trunk predicted mass, Trunk fat-free mass	0	4122307
+20_4139131_C_T	-547219	4	Reticulocyte count, Reticulocyte fraction of red cells, High...	0.0245840576111249	4139131
+20_4139576_G_A	-546774	3	Reticulocyte count, Reticulocyte percentage, Immature reticu...	0.0241876374297581	4139576
+20_4145210_C_T	-541140	1	High light scatter reticulocyte count	0	4145210
+20_4148407_G_T	-537943	1	Reticulocyte count	0.0387021110242377	4148407
+20_4162192_G_A	-524158	1	Haemoglobin concentration	0	4162192
+20_4176425_C_G	-509925	16	Reticulocyte count, Immature reticulocyte fraction, Mean cor...	0	4176425
+20_4180853_C_T	-505497	1	White blood cell count	0	4180853
+20_4182655_A_G	-503695	1	High light scatter reticulocyte count	0	4182655
+20_4188432_G_A	-497918	1	Immature fraction of reticulocytes	0.00925925925925926	4188432
+20_4189582_G_C	-496768	1	Mean reticulocyte volume	0.00884955752212389	4189582
+20_4222579_C_T	-463771	2	Heel bone mineral density, Heel bone mineral density	0.0249936884625095	4222579
+20_4262797_G_C	-423553	1	polycystic kidney | Non-cancer illness code, self-reported	0.0240963855421687	4262797
+20_4293964_T_G	-392386	1	Lymphocyte count	0.0428571428571429	4293964
+20_4445885_G_A	-240465	3	hypertension | Non-cancer illness code, self-reported, High ...	0.09375	4445885
+20_4599109_G_A	-87241	1	High light scatter reticulocyte percentage	0.09375	4599109
+20_4696446_G_A	10096	2	Creutzfeldt-Jakob disease (variant), Creutzfeldt-Jakob disea...	0.287342531493701	4696446
+20_4699605_A_G	13255	1	Creutzfeldt-Jakob disease	0.4	4699605
+20_4721739_G_A	35389	1	Dark brown | Hair colour (natural, before greying)	0.0892857142857143	4721739
+20_4795437_C_T	109087	1	DNA methylation variation (age effect)	0.0754501286081738	4795437
+20_4805434_T_C	119084	1	Breast cancer	0.0620009394081729	4805434
+20_4999759_C_T	313409	1	Red cell distribution width	0.0310004697040864	4999759
+20_5002446_G_A	316096	3	Mean corpuscular haemoglobin, Mean corpuscular volume, Mean ...	0.0317383986535225	5002446
+20_5004696_A_T	318346	1	Mean corpuscular volume	0.0327787434814999	5004696
+20_5073907_C_G	387557	1	Mean platelet (thrombocyte) volume	0.0174418604651163	5073907
+20_5128756_T_C	442406	1	Comparative height size at age 10	0.0115606936416185	5128756
+20_5132068_T_A	445718	1	Standing height	0.0124976330240485	5132068
+20_5493266_C_A	806916	1	Breast cancer	0	5493266
+20_6858847_A_G	2172497	1	Breast cancer	0	6858847
